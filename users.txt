@@ -1,4 +1,1 @@
-local users = {
-yonen,
-Squidoodle,
-}
+{yonen, Squidoodle}
