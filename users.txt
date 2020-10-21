@@ -1,1 +1,1 @@
-users = {yonen, Squidoodle}
+yonen,Squidoodle
